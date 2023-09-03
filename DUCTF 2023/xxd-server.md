@@ -58,7 +58,7 @@ After some extreme modifications this is the ugly thing I ended up with:
 
 But it did work.
 
-![flag_xxd-server.png](xxd-server%20ef81a51f18a04a028a6c3380b401691a/flag_xxd-server.png)
+![flag_xxd-server.png](https://github.com/Thomy-G/CTF-Writeups/edit/main/DUCTF%202023/flag_xxd-server.png)
 
 After I found out that my solve was overly complicated I decided that I had no option but commit to the extreme stupidity and make a tool out of it so sooner or later I'll release a CLI tool to turn PHP into chunks that can live separated from each other also splitting function names based on a writeup I saw online and still execute. It was a fun experience even if unintendedly so.
 
